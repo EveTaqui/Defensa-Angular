@@ -1,0 +1,36 @@
+/* Estilo general del nav */
+nav {
+    background-color: #005af5;
+    padding: 10px;
+  }
+  
+  /* Estilo de la lista sin estilo predeterminado */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; /* Alinea los elementos a la derecha */
+  }
+  
+  /* Estilo de los elementos de la lista */
+  li {
+    margin-left: 10px;
+  }
+  
+  /* Estilo de los enlaces */
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    padding-left: 60px;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  
+  /* Estilo al pasar el ratón sobre los enlaces */
+  li a:hover {
+    background-color: #111;
+  }
+  

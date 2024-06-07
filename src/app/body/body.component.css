@@ -1,0 +1,14 @@
+button{
+    padding: 10px 20px;
+    background-color: #2d77e6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    }
+    button:hover {
+    background-color: #a1a19a;
+    }
+    button:active {
+    background-color: #771306;
+    }
+    
